@@ -83,6 +83,10 @@ explain it.
 - **The next pair.**  Two more numbers in `Player` always travel together.
   Find them.  Don't extract them yet -- say what type they want to be, and what
   rule it would keep.
+- **Bonus level:  `Level` and `Experience`.**  No new tools needed, just
+  thinking.  Is `Level` part of a character's stats, or something separate?
+  And are `Level` and `Experience` really two independent numbers?  Could a
+  level-3 character have 0 XP?  Should the code allow it?
 
 ## Done for today?
 
